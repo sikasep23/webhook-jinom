@@ -1,0 +1,6 @@
+DB_HOST = 'host'
+DB_PORT = '5432'
+DB_NAME = 'jinom'
+DB_USER = 'apps'
+DB_PASS = 'apps@2023!'
+DB_DRIVER = 'pg'
